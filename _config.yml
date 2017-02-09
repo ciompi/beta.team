@@ -1,0 +1,8 @@
+title: Beta Air
+description: Just simple enough to be revolutionary
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions

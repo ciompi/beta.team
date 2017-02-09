@@ -7,7 +7,7 @@ Amazing dedication is found in passion. Many nights of sleeping on the hangar fl
 "For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return." Leonardo da Vinci
 </br>
 
-### An anylical approach
+### An Analytical Approach
 The beta team takes an mathematical approach to all problems, specifically a constructive mathematical model of all systems and exploring solutions based on both intuition and analysis. 
 
 

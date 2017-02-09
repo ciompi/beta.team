@@ -10,4 +10,4 @@ Amazing dedication is found in passion. Many nights of sleeping on the hangar fl
 “For once you have tasted flight you will walk the earth with your eyes turned skywards, for there you have been and there you will long to return.” -Leonardo da Vinci
 
 ### Contact
-Interested in working with a lean, effective and amazing technical team.  Call us 802 338-1876.
+Interested in working with a lean, effective and amazing technical team?  Call Us 802-338-1876.

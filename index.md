@@ -2,7 +2,7 @@
 Team Beta believes in efficient, lean and insightful product development utilizing existing components where possible and focusing on the architectural design, controls/monitoring and integration, while maintaining a fundamental understanding of the physics and practical limits of technology.
 
 ### Analytical Approach
-The beta team takes an mathematical approach to all problems, specifically a constructive mathematical model of all systems and exploring solutions based on both intuition and analysis.
+Team Beta takes an mathematical approach to all problems, specifically a constructive mathematical model of all systems and exploring solutions based on both intuition and analysis.
 
 ### Passion for Aviation
 Amazing dedication is found in passion. Many nights of sleeping on the hangar floor, early mornings and irrational decisions… all a result of a passion for aviation. We couple this passion with expertise to develop amazing products. 

@@ -1,7 +1,7 @@
 title: Beta Air
 description: Just simple enough to be revolutionary
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:

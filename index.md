@@ -1,4 +1,4 @@
-### our "Process"
+### Our "Process"
 Dream it > Design it > Build it > Fly it > Certify it > Produce it > Support it
 
 ### Practical Approach

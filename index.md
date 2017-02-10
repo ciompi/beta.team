@@ -1,3 +1,6 @@
+### our "Process"
+Dream it > Design it > Build it > Fly it > Certify it > Produce it > Support it
+
 ### Practical Approach
 Team Beta believes in efficient, lean and insightful product development utilizing existing components where possible and focusing on the architectural design, controls/monitoring and integration, while maintaining a fundamental understanding of the physics and practical limits of technology.
 
